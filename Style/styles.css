@@ -36,3 +36,13 @@ body {
      border-bottom: 61px solid red;
      transition: all 1.5s ease;
 }
+
+#score {
+    float: none;
+    height: 95vh;
+    margin-left: 1.5vh;
+    color: blueviolet;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    align-items: center;
+}
