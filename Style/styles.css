@@ -11,6 +11,11 @@ body {
     background-color: rgb(43, 43, 43);
 }
 
+body .pag2{
+    background-color: white;
+    align-items: center;
+}
+
 .ninco {
     position: absolute;
     display: flex;
