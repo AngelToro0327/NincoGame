@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Style/styles.css">
 </head>
-<body class="pag2">
+<body>
     <h2>Este es un juego programado en clase inspirado en la vida de Santiago Ninco</h2>
 </body>
 </html>
